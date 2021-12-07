@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{attrs:{id:"about"}},[n("b-container",[n("b-row",[n("b-col",{attrs:{cols:"12"}},[n("p",[t._v("網頁設計及維護：23 林筑嫻"),n("br"),t._v("最近更新日期："+t._s(t.date))])])],1)],1)],1)},o=[],r={data:function(){return{date:(new Date).toLocaleDateString()}}},c=r,u=n("2877"),l=Object(u["a"])(c,a,o,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=about.e240e30a.js.map
